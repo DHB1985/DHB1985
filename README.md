@@ -20,10 +20,6 @@ const DanielBarbieri = {
 }
 ```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhb1985&show_icons=true&locale=en&layout=compact" alt="dhb1985" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhb1985&show_icons=true&locale=en" alt="dhb1985" /></p>
-
 ## 📫 CONTACT ME
 
 Have a question or want to work together? 
@@ -31,5 +27,11 @@ Have a question or want to work together?
 **Email:** danielbarbieri@gmail.com
 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/daniel-h-barbieri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-h-barbieri/" height="30" width="40" /></a>
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhb1985&show_icons=true&locale=en&layout=compact" alt="dhb1985" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhb1985&show_icons=true&locale=en" alt="dhb1985" /></p>
 
 
