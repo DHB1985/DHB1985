@@ -1,3 +1,5 @@
+<img src="./img/do-responsive-web-development-in-react-nodejs-html-css-bootstrap.jpg"/>
+
 <h1 align="center">Hi 👋, I'm Daniel Barbieri</h1>
 <h3 align="center">Full Stack Developer</h3>
 
