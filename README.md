@@ -23,11 +23,12 @@ const DanielBarbieri = {
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhb1985&show_icons=true&locale=en" alt="dhb1985" /></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## 📫 CONTACT ME
+
+Have a question or want to work together? 
+
+**Email:** danielbarbieri@gmail.com
+
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/daniel-h-barbieri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-h-barbieri/" height="30" width="40" /></a>
-      <a align='right' href="mailto:contreras.cesar.al@gmail.com">
-         <img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30"/>
-      </a>  
-   </p>
-   <p><label>danielbarbieri@gmail.com</label></p>
+
+
