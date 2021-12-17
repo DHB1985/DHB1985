@@ -17,7 +17,7 @@
     <br />
     HTML5
   </div>
-  <div>
+  <div style = "float: left">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
       alt="css3"
@@ -27,7 +27,7 @@
     <br />
     CSS3
   </div>
-  <div>
+  <div style = "float: left">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
@@ -37,7 +37,7 @@
     <br />
     JavaScript
   </div>
-  <div>
+  <div style = "float: left">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react"
@@ -47,7 +47,7 @@
     <br />
     React.js
   </div>
-  <div>
+  <div style = "float: left">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
       alt="redux"
@@ -57,7 +57,7 @@
     <br />
     Redux.js
   </div>
-  <div>
+  <div style = "float: left">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs"
@@ -66,8 +66,8 @@
     />
     <br />
     NodeJS
-  </div>
-  <div>
+  </div >
+  <div style = "float: left">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
       alt="cplusplus"
